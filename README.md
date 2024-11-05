@@ -1,6 +1,6 @@
 # Helmet Detection System
 
-This project detects helmet usage in real-time video feeds. Inspired by [Honda’s “No Green Light Without Helmet” campaign](https://www.facebook.com/Honda2Wheelers/videos/687548699069705/), it aims to promote safety awareness by highlighting individuals who are not wearing helmets.
+This project detects helmet usage in real-time video feeds. Inspired by [Honda’s “No Green Light Without Helmet” campaign](https://www.facebook.com/watch/?v=1517745148995687), it aims to promote safety awareness by highlighting individuals who are not wearing helmets.
 
 ## Features
 
